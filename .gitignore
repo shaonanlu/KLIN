@@ -11,4 +11,5 @@
 *.pptx
 login.php
 
+#需忽略的資料夾
 .idea/
